@@ -1,0 +1,33 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = P231Yummy
+build_property.RootNamespace = P231Yummy
+build_property.ProjectDir = C:\Users\Eagha\Desktop\CodeLessons\P231\Backend\1. 06-06-2023\P231Yummy\P231Yummy\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Eagha\Desktop\CodeLessons\P231\Backend\1. 06-06-2023\P231Yummy\P231Yummy
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Eagha/Desktop/CodeLessons/P231/Backend/1. 06-06-2023/P231Yummy/P231Yummy/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eagha/Desktop/CodeLessons/P231/Backend/1. 06-06-2023/P231Yummy/P231Yummy/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eagha/Desktop/CodeLessons/P231/Backend/1. 06-06-2023/P231Yummy/P231Yummy/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Eagha/Desktop/CodeLessons/P231/Backend/1. 06-06-2023/P231Yummy/P231Yummy/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f946n884sc
